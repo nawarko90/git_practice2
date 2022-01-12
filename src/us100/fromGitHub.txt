@@ -1,0 +1,5 @@
+this is an aswesom file I added directly from github.com
+And now I will commit it directly to github.com remote repository
+this is not something would do normally
+we are just trying to simulate a situation where remote repository history is ahead of local repository history
+in plain english remote has one additional commit that local does not have
